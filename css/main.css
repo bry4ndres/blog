@@ -8,6 +8,7 @@ body
     bottom: 0;
     left: 0;
     right: 0;
+    font-family: 'Roboto Mono', monospace;
 }
 
 a
@@ -102,12 +103,15 @@ nav
     margin-top: 130px;
     color: white;
     font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 10px;
     text-align: center;
+    
 }
 
 .main__button
 {
-    margin-top: 130px;
+    margin-top: 110px;
 
 }
 
@@ -116,7 +120,7 @@ nav
     width: 120px;
     height: 45px;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 700;
     background-color:#47cfac ;
     border: 0.1px solid #47cfac ;
 }
